@@ -13,6 +13,7 @@ The last transformation step was aggregating data by day. Some values such as "H
 
 In terms of visualizations I used lineplot with original data plotted as well as its MA. Moving average helped me smooth out the outliers and get a much better looking graph that is easier to understand. In addition I added horizontal lines representing mean values or, in case of audio exposure levels, lines that can help me see whether my music listening volume is low enough and not dangerous to my hearing.
 ![download](https://user-images.githubusercontent.com/102311131/213932949-70491554-10aa-4a2c-8891-e3d440b7862b.png)
+
 Speaking of my steps count I can definitely see that for the last couple of month my activity is below my average and this is probably one of the areas I need to work on :D .
 ![download](https://user-images.githubusercontent.com/102311131/213933347-66996315-19d0-4195-9c2f-c5a395145ac3.png)
 
